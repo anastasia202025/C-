@@ -1,0 +1,15 @@
+D:\Задания к семинарам по C#\seminar1task1\bin\Debug\net6.0\seminar1task1.exe
+D:\Задания к семинарам по C#\seminar1task1\bin\Debug\net6.0\seminar1task1.deps.json
+D:\Задания к семинарам по C#\seminar1task1\bin\Debug\net6.0\seminar1task1.runtimeconfig.json
+D:\Задания к семинарам по C#\seminar1task1\bin\Debug\net6.0\seminar1task1.dll
+D:\Задания к семинарам по C#\seminar1task1\bin\Debug\net6.0\seminar1task1.pdb
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.csproj.AssemblyReference.cache
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.AssemblyInfoInputs.cache
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.AssemblyInfo.cs
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.csproj.CoreCompileInputs.cache
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.dll
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\refint\seminar1task1.dll
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.pdb
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\seminar1task1.genruntimeconfig.cache
+D:\Задания к семинарам по C#\seminar1task1\obj\Debug\net6.0\ref\seminar1task1.dll
